@@ -1,0 +1,6 @@
+@JobExpressBack_HostAddress = http://localhost:5242
+
+GET {{JobExpressBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|e:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\jobexpressback\\jobexpressback\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|solutionrelative:jobexpressback\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\2eme-iit\\semestre 1\\prog net\\tp7ApiRest\\tp7ApiRest\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|e:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\jobexpressback\\jobexpressback\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|solutionrelative:jobexpressback\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|e:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\jobexpressback\\jobexpressback\\models\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|solutionrelative:jobexpressback\\models\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|e:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\jobexpressback\\jobexpressback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|solutionrelative:jobexpressback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|e:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\jobexpressback\\jobexpressback\\models\\dtos\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|solutionrelative:jobexpressback\\models\\dtos\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|e:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\jobexpressback\\jobexpressback\\models\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|solutionrelative:jobexpressback\\models\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|e:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\jobexpressback\\jobexpressback\\models\\dtos\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|solutionrelative:jobexpressback\\models\\dtos\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|e:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\jobexpressback\\jobexpressback\\models\\dtos\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|solutionrelative:jobexpressback\\models\\dtos\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|e:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\jobexpressback\\jobexpressback\\models\\exjobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|solutionrelative:jobexpressback\\models\\exjobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\Secure-ASP-.NET-Core-8-API-with-JWT-Authentication-and-Refresh-Token\\TestApiJWT\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\Secure-ASP-.NET-Core-8-API-with-JWT-Authentication-and-Refresh-Token\\TestApiJWT\\Helpers\\JWT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|e:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\jobexpressback\\jobexpressback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|solutionrelative:jobexpressback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|e:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\jobexpressback\\jobexpressback\\models\\entities\\avis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|solutionrelative:jobexpressback\\models\\entities\\avis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|e:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\jobexpressback\\jobexpressback\\models\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|solutionrelative:jobexpressback\\models\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|e:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\jobexpressback\\jobexpressback\\models\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|solutionrelative:jobexpressback\\models\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|e:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\jobexpressback\\jobexpressback\\models\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|solutionrelative:jobexpressback\\models\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|e:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\jobexpressback\\jobexpressback\\models\\entities\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|solutionrelative:jobexpressback\\models\\entities\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|e:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\jobexpressback\\jobexpressback\\jobexpressback.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B0747E0-C0D3-4A80-8F75-6AF211D63D65}|JobExpressBack\\JobExpressBack.csproj|solutionrelative:jobexpressback\\jobexpressback.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "JobExpressBack\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "JobExpressBack\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:33:04.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\2eme-iit\\semestre 1\\prog net\\tp7ApiRest\\tp7ApiRest\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\tp7ApiRest\\tp7ApiRest\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\2eme-iit\\semestre 1\\prog net\\tp7ApiRest\\tp7ApiRest\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "..\\..\\..\\tp7ApiRest\\tp7ApiRest\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:19:42.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Models\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "JobExpressBack\\Models\\Repositories\\AuthRepository.cs",
+              "ToolTip": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Models\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "JobExpressBack\\Models\\Repositories\\AuthRepository.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:38:10.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\appsettings.json",
+              "RelativeDocumentMoniker": "JobExpressBack\\appsettings.json",
+              "ToolTip": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\appsettings.json",
+              "RelativeToolTip": "JobExpressBack\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T20:52:49.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JobExpressBack\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JobExpressBack\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAqwC0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:00:49.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Models\\Repositories\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "JobExpressBack\\Models\\Repositories\\IAuthRepository.cs",
+              "ToolTip": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Models\\Repositories\\IAuthRepository.cs",
+              "RelativeToolTip": "JobExpressBack\\Models\\Repositories\\IAuthRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:40:50.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Models\\DTOs\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "JobExpressBack\\Models\\DTOs\\ApplicationUser.cs",
+              "ToolTip": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Models\\DTOs\\ApplicationUser.cs",
+              "RelativeToolTip": "JobExpressBack\\Models\\DTOs\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:54:34.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Models\\DTOs\\LoginModel.cs",
+              "RelativeDocumentMoniker": "JobExpressBack\\Models\\DTOs\\LoginModel.cs",
+              "ToolTip": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Models\\DTOs\\LoginModel.cs",
+              "RelativeToolTip": "JobExpressBack\\Models\\DTOs\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:13:49.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Models\\DTOs\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "JobExpressBack\\Models\\DTOs\\RegisterModel.cs",
+              "ToolTip": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Models\\DTOs\\RegisterModel.cs",
+              "RelativeToolTip": "JobExpressBack\\Models\\DTOs\\RegisterModel.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:48:30.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExJobDBContext.cs",
+              "DocumentMoniker": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Models\\ExJobDBContext.cs",
+              "RelativeDocumentMoniker": "JobExpressBack\\Models\\ExJobDBContext.cs",
+              "ToolTip": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Models\\ExJobDBContext.cs",
+              "RelativeToolTip": "JobExpressBack\\Models\\ExJobDBContext.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAnwEMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:31:30.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JWT.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Secure-ASP-.NET-Core-8-API-with-JWT-Authentication-and-Refresh-Token\\TestApiJWT\\Helpers\\JWT.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Secure-ASP-.NET-Core-8-API-with-JWT-Authentication-and-Refresh-Token\\TestApiJWT\\Helpers\\JWT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:58:28.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Secure-ASP-.NET-Core-8-API-with-JWT-Authentication-and-Refresh-Token\\TestApiJWT\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Secure-ASP-.NET-Core-8-API-with-JWT-Authentication-and-Refresh-Token\\TestApiJWT\\Services\\AuthService.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAYwJAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:59:53.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Program.cs",
+              "RelativeDocumentMoniker": "JobExpressBack\\Program.cs",
+              "ToolTip": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Program.cs",
+              "RelativeToolTip": "JobExpressBack\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAC0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:20:40.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Message.cs",
+              "DocumentMoniker": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Models\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "JobExpressBack\\Models\\Entities\\Message.cs",
+              "ToolTip": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Models\\Entities\\Message.cs",
+              "RelativeToolTip": "JobExpressBack\\Models\\Entities\\Message.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:28:00.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Avis.cs",
+              "DocumentMoniker": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Models\\Entities\\Avis.cs",
+              "RelativeDocumentMoniker": "JobExpressBack\\Models\\Entities\\Avis.cs",
+              "ToolTip": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Models\\Entities\\Avis.cs",
+              "RelativeToolTip": "JobExpressBack\\Models\\Entities\\Avis.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAvwBMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:05:04.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Service.cs",
+              "DocumentMoniker": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Models\\Entities\\Service.cs",
+              "RelativeDocumentMoniker": "JobExpressBack\\Models\\Entities\\Service.cs",
+              "ToolTip": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Models\\Entities\\Service.cs",
+              "RelativeToolTip": "JobExpressBack\\Models\\Entities\\Service.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:12:57.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Models\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "JobExpressBack\\Models\\Entities\\Notification.cs",
+              "ToolTip": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Models\\Entities\\Notification.cs",
+              "RelativeToolTip": "JobExpressBack\\Models\\Entities\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:11:08.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Categorie.cs",
+              "DocumentMoniker": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Models\\Entities\\Categorie.cs",
+              "RelativeDocumentMoniker": "JobExpressBack\\Models\\Entities\\Categorie.cs",
+              "ToolTip": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\Models\\Entities\\Categorie.cs",
+              "RelativeToolTip": "JobExpressBack\\Models\\Entities\\Categorie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:14:06.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JobExpressBack.csproj",
+              "DocumentMoniker": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\JobExpressBack.csproj",
+              "RelativeDocumentMoniker": "JobExpressBack\\JobExpressBack.csproj",
+              "ToolTip": "E:\\2eme-iit\\semestre 1\\prog net\\projet\\backend\\JobExpressBack\\JobExpressBack\\JobExpressBack.csproj",
+              "RelativeToolTip": "JobExpressBack\\JobExpressBack.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T18:13:38.032Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
