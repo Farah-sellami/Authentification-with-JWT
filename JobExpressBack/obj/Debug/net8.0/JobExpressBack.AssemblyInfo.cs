@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JobExpressBack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+724314ec88f53cc3b428dda5570feeec7fa58ff4")]
 [assembly: System.Reflection.AssemblyProductAttribute("JobExpressBack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JobExpressBack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

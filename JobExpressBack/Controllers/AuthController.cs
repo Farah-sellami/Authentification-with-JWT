@@ -45,18 +45,27 @@ namespace JobExpressBack.Controllers
 
             var result = await authRepository.Login(model);
 
-            if (result == "Login successful!")
+            if (!result.IsAuthenticated)
             {
-                return Ok(new { 
-                    Message = result 
+                return BadRequest(new
+                {
+                    Message = result.Message
                 });
             }
-            
-                return BadRequest(new { Message = result }); 
-        }
+
+            return Ok(new
+            {
+                Message = result.Message,
+                Username = result.Username,
+                Email = result.Email,
+                Token = result.Token,
+                ExpiresOn = result.ExpiresOn
+            });
 
         }
 
-        }
+    }
+
 }
+
 

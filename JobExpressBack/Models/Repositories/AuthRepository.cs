@@ -66,35 +66,32 @@ namespace JobExpressBack.Models.Repositories
             return "Registration successful!";
         }
 
-        public async Task<object> Login(LoginModel model)
+        public async Task<AuthModel> Login(LoginModel model)
         {
+            var authModel = new AuthModel();
             // Vérifier si l'utilisateur existe
             var user = await userManager.FindByEmailAsync(model.Email);
             if (user == null || !await userManager.CheckPasswordAsync(user, model.Password))
             {
-                return new { Message = "Invalid email or password!" };
+                authModel.Message = "Invalid email or password!";
+                authModel.IsAuthenticated = false;
+                return authModel;
             }
 
             // Générer un token JWT
             var token = GenerateJwtToken(user);
+            authModel.Message = "Login successful!";
+            authModel.IsAuthenticated = true;
+            authModel.Username = user.UserName;
+            authModel.Email = user.Email;
+            authModel.Token = token;
+            authModel.ExpiresOn = DateTime.UtcNow.AddHours(1);
 
             //update les activités utilisateur
             user.LastLoginDate = DateTime.UtcNow;
             await userManager.UpdateAsync(user);
 
-            return new
-            {
-                Message = "Login successful!",
-                Token = token,
-                User = new
-                {
-                    user.Id,
-                    user.UserName,
-                    user.Email,
-                    user.FirstName,
-                    user.LastName
-                }
-            };
+            return authModel;
         }
 
         private string GenerateJwtToken(ApplicationUser user)
